@@ -1,0 +1,8 @@
+{
+    "type": "workspace",
+    "id": "default",
+    "content": {
+        "home": "https://pictoassets.epi3.co/screens/home.json",
+        "default-screens": "https://pictoassets.epi3.co/grids/default.json"
+    }
+}

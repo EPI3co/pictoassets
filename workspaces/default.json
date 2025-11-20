@@ -2,7 +2,7 @@
     "type": "workspace",
     "id": "default",
     "content": {
-        "home": "https://pictoassets.epi3.co/screens/home.json",
-        "default-screens": "https://pictoassets.epi3.co/grids/default.json"
+        "home": "https://api.github.com/repos/EPI3co/pictoassets/contents/screens/home.json",
+        "default-screens": "https://api.github.com/repos/EPI3co/pictoassets/contents/grids/default.json"
     }
 }
